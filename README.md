@@ -11,3 +11,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 jupyter lab
 ```
+
+## Jupyter Notebook: Power Plant Analysis
+
+Here is the [notebook](./power_plants_task.ipynb) that covers the power plant analysis. There is also an initial analysis [notebook](./initial_analysis.ipynb).
